@@ -1,0 +1,14 @@
+﻿- co-up (2 players)
+- put auto aim cannon on the unused ship?
+- need sound for impact on player's shield.
+- implement stronger enemies and fewer enemies.
+- add a primitive linedrawer that will be a new gun: the auto-aim-laser. draw the line for 0.5sec and then make it dissapear. add the damage on draw. just shoot a random enemy on the map.
+- draw only the visible background parts. use sourcerectangle. but source rectangle has a problem, its not as accurate as a float... it might leave a gap or something...
+- need interior of a spaceship for the shop.
+- Add Item pickup sound.
+
+- expansion:
+	- when the player reaches level 60 he unlocks a new mode/campaign.
+	- don't allow the player to start on a level higher than 20 unless level 60 is beaten on that campaign.
+	- upgrade highscores to show scores for each campaign.
+	- what will be different in the other campaign? different enemies? more hp? what will the player receive extra?

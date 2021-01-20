@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\emptyPixel.png</Source>
+      <Name>Textures\emptyPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\emptyPixel.xnb</Output>
+      <Time>2011-09-27T18:51:27.21825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\white1px.png</Source>
+      <Name>Textures\white1px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\white1px.xnb</Output>
+      <Time>2011-09-27T18:51:27.21825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\white1px50Trans.png</Source>
+      <Name>Textures\white1px50Trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\white1px50Trans.xnb</Output>
+      <Time>2011-09-27T18:51:27.21825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\player.png</Source>
+      <Name>Textures\Ships\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\player.xnb</Output>
+      <Time>2011-09-29T11:52:13.592875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\player.png</Source>
+      <Name>Textures\Shadows\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\player.xnb</Output>
+      <Time>2011-09-29T11:52:27.780375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\projectile01.png</Source>
+      <Name>Textures\Projectiles\projectile01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\projectile01.xnb</Output>
+      <Time>2011-10-03T14:15:20.201875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\FPS.spritefont</Source>
+      <Name>Fonts\FPS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\FPS.xnb</Output>
+      <Time>2011-09-27T20:58:58.202625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\boom1.png</Source>
+      <Name>Textures\Projectiles\boom1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\boom1.xnb</Output>
+      <Time>2011-09-28T12:33:28.4525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\boom1_enemy.png</Source>
+      <Name>Textures\Projectiles\boom1_enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\boom1_enemy.xnb</Output>
+      <Time>2011-09-28T12:33:28.4525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg1_0.png</Source>
+      <Name>Textures\Projectiles\mg1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg1_0.xnb</Output>
+      <Time>2011-09-28T13:02:19.54625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg1_1.png</Source>
+      <Name>Textures\Projectiles\mg1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg1_1.xnb</Output>
+      <Time>2011-09-28T13:02:19.405625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg1_2.png</Source>
+      <Name>Textures\Projectiles\mg1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\documents and settings\administrator\my documents\visual studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg1_2.xnb</Output>
+      <Time>2011-09-28T13:02:19.218125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship02.png</Source>
+      <Name>Textures\Ships\ship02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship02.xnb</Output>
+      <Time>2011-09-29T11:43:55.9835+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship03.png</Source>
+      <Name>Textures\Ships\ship03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship03.xnb</Output>
+      <Time>2011-09-29T11:43:55.671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship04.png</Source>
+      <Name>Textures\Ships\ship04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship04.xnb</Output>
+      <Time>2011-09-29T11:43:55.82725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship02.png</Source>
+      <Name>Textures\Shadows\ship02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship02.xnb</Output>
+      <Time>2011-09-29T11:44:08.76475+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship03.png</Source>
+      <Name>Textures\Shadows\ship03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship03.xnb</Output>
+      <Time>2011-09-29T11:44:08.95225+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship04.png</Source>
+      <Name>Textures\Shadows\ship04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship04.xnb</Output>
+      <Time>2011-09-29T11:44:08.561625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship01.png</Source>
+      <Name>Textures\Ships\ship01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship01.xnb</Output>
+      <Time>2011-09-29T11:52:37.217875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship01.png</Source>
+      <Name>Textures\Shadows\ship01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship01.xnb</Output>
+      <Time>2011-09-29T11:52:43.905375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg01.jpg</Source>
+      <Name>Textures\BG\bg01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\BG\bg01.xnb</Output>
+      <Time>2011-09-29T13:59:03.374125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg02.jpg</Source>
+      <Name>Textures\BG\bg02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\BG\bg02.xnb</Output>
+      <Time>2011-09-29T13:59:03.546+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg03.jpg</Source>
+      <Name>Textures\BG\bg03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\BG\bg03.xnb</Output>
+      <Time>2011-09-29T13:59:03.171+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BG\bg04.jpg</Source>
+      <Name>Textures\BG\bg04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\BG\bg04.xnb</Output>
+      <Time>2011-09-29T12:36:11.092875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\bo.png</Source>
+      <Name>Textures\Pickups\bo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\bo.xnb</Output>
+      <Time>2011-09-29T17:14:13.780375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\hp.png</Source>
+      <Name>Textures\Pickups\hp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\hp.xnb</Output>
+      <Time>2011-09-30T11:19:29.312125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\aim.png</Source>
+      <Name>Textures\Pickups\aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\aim.xnb</Output>
+      <Time>2011-09-29T17:14:13.499125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\heart.png</Source>
+      <Name>Textures\GUI\heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\heart.xnb</Output>
+      <Time>2011-09-29T14:43:53.155375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\hpbarEmpty.png</Source>
+      <Name>Textures\GUI\hpbarEmpty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\hpbarEmpty.xnb</Output>
+      <Time>2011-09-29T14:43:53.13975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\hpbarFull.png</Source>
+      <Name>Textures\GUI\hpbarFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\hpbarFull.xnb</Output>
+      <Time>2011-09-29T14:43:53.155375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuChoice.bmp</Source>
+      <Name>Fonts\MenuChoice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\MenuChoice.xnb</Output>
+      <Time>2011-09-29T15:11:07.63975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuTitle.bmp</Source>
+      <Name>Fonts\MenuTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\MenuTitle.xnb</Output>
+      <Time>2011-09-29T15:11:07.6085+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font01_20.bmp</Source>
+      <Name>Fonts\Font01_20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font01_20.xnb</Output>
+      <Time>2011-09-29T15:15:38.874125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font02_28.bmp</Source>
+      <Name>Fonts\Font02_28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font02_28.xnb</Output>
+      <Time>2011-09-29T15:15:38.842875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\spaceBG.jpg</Source>
+      <Name>Textures\Menu\spaceBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Menu\spaceBG.xnb</Output>
+      <Time>2011-09-29T15:17:12.2335+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Effects\explosion01_64px_16.png</Source>
+      <Name>Textures\Effects\explosion01_64px_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Effects\explosion01_64px_16.xnb</Output>
+      <Time>2011-09-29T15:50:49.421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explodemini.wav</Source>
+      <Name>Audio\explodemini</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\explodemini.xnb</Output>
+      <Time>2011-10-01T15:29:43.70275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\impact1.wav</Source>
+      <Name>Audio\impact1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\impact1.xnb</Output>
+      <Time>2011-10-01T15:18:09.718375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MP3\level01.mp3</Source>
+      <Name>MP3\level01</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level01.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level01.wma</Extra>
+      <Time>2011-09-29T16:34:40.1085+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font03_18.bmp</Source>
+      <Name>Fonts\Font03_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font03_18.xnb</Output>
+      <Time>2011-09-29T16:54:57.70225+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font01_18.bmp</Source>
+      <Name>Fonts\Font01_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font01_18.xnb</Output>
+      <Time>2011-09-29T17:07:43.57725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\missile.png</Source>
+      <Name>Textures\Pickups\missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\missile.xnb</Output>
+      <Time>2011-09-29T17:17:09.342875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missile.png</Source>
+      <Name>Textures\Projectiles\missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missile.xnb</Output>
+      <Time>2011-09-29T17:18:38.13975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\rlaunch.wav</Source>
+      <Name>Audio\rlaunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\rlaunch.xnb</Output>
+      <Time>2011-09-29T17:32:47.374125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MP3\maintheme.mp3</Source>
+      <Name>MP3\maintheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\maintheme.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\maintheme.wma</Extra>
+      <Time>2011-09-29T17:57:24.905375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\speed.png</Source>
+      <Name>Textures\Pickups\speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\speed.xnb</Output>
+      <Time>2011-09-29T17:59:45.3585+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\shieldbarFull.png</Source>
+      <Name>Textures\GUI\shieldbarFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\shieldbarFull.xnb</Output>
+      <Time>2011-09-30T11:00:16.312125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\shield.png</Source>
+      <Name>Textures\Pickups\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\shield.xnb</Output>
+      <Time>2011-09-30T11:19:28.5465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship05.png</Source>
+      <Name>Textures\Ships\ship05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship05.xnb</Output>
+      <Time>2011-09-30T13:54:10.20275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship05.png</Source>
+      <Name>Textures\Shadows\ship05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship05.xnb</Output>
+      <Time>2011-09-30T13:54:13.562125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship06.png</Source>
+      <Name>Textures\Ships\ship06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship06.xnb</Output>
+      <Time>2011-09-30T14:29:29.984+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship06.png</Source>
+      <Name>Textures\Shadows\ship06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship06.xnb</Output>
+      <Time>2011-09-30T14:29:35.5465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missile45.png</Source>
+      <Name>Textures\Projectiles\missile45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missile45.xnb</Output>
+      <Time>2011-09-30T14:15:26.1715+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missileM45.png</Source>
+      <Name>Textures\Projectiles\missileM45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missileM45.xnb</Output>
+      <Time>2011-09-30T14:15:26.1715+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship07.PNG</Source>
+      <Name>Textures\Ships\ship07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship07.xnb</Output>
+      <Time>2011-09-30T14:29:29.20275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship07.PNG</Source>
+      <Name>Textures\Shadows\ship07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship07.xnb</Output>
+      <Time>2011-09-30T14:29:35.5465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missileEnemy.png</Source>
+      <Name>Textures\Projectiles\missileEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missileEnemy.xnb</Output>
+      <Time>2011-09-30T14:39:13.9215+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missileM45Player.png</Source>
+      <Name>Textures\Projectiles\missileM45Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missileM45Player.xnb</Output>
+      <Time>2011-09-30T14:43:43.51525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missile45Player.png</Source>
+      <Name>Textures\Projectiles\missile45Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missile45Player.xnb</Output>
+      <Time>2011-09-30T14:43:43.51525+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\dualMissile.png</Source>
+      <Name>Textures\Pickups\dualMissile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\dualMissile.xnb</Output>
+      <Time>2011-09-30T14:53:33.2965+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pickups\shieldRegen.png</Source>
+      <Name>Textures\Pickups\shieldRegen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Pickups\shieldRegen.xnb</Output>
+      <Time>2011-09-30T15:24:32.812125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnAutoAim.png</Source>
+      <Name>Textures\GUI\Weapons\wpnAutoAim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnAutoAim.xnb</Output>
+      <Time>2011-09-30T15:57:53.95275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnBoomer.png</Source>
+      <Name>Textures\GUI\Weapons\wpnBoomer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnBoomer.xnb</Output>
+      <Time>2011-09-30T15:57:53.95275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnDualMissile.png</Source>
+      <Name>Textures\GUI\Weapons\wpnDualMissile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnDualMissile.xnb</Output>
+      <Time>2011-09-30T15:57:53.968375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnGreen.png</Source>
+      <Name>Textures\GUI\Weapons\wpnGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnGreen.xnb</Output>
+      <Time>2011-09-30T15:57:53.968375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnMG.png</Source>
+      <Name>Textures\GUI\Weapons\wpnMG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnMG.xnb</Output>
+      <Time>2011-09-30T15:57:53.968375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnMissile.png</Source>
+      <Name>Textures\GUI\Weapons\wpnMissile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnMissile.xnb</Output>
+      <Time>2011-09-30T15:57:53.95275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnRed.png</Source>
+      <Name>Textures\GUI\Weapons\wpnRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnRed.xnb</Output>
+      <Time>2011-09-30T15:57:53.95275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\killSkull.png</Source>
+      <Name>Textures\GUI\killSkull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\killSkull.xnb</Output>
+      <Time>2011-09-30T22:57:42.780875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\KillCnt.bmp</Source>
+      <Name>Fonts\KillCnt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\KillCnt.xnb</Output>
+      <Time>2011-09-30T23:05:31.109+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\rlaunchEnemy.wav</Source>
+      <Name>Audio\rlaunchEnemy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\rlaunchEnemy.xnb</Output>
+      <Time>2011-10-01T15:55:30.109+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\victory.wav</Source>
+      <Name>Audio\victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\victory.xnb</Output>
+      <Time>2011-10-01T17:39:31.87425+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MP3\level02.mp3</Source>
+      <Name>MP3\level02</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level02.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level02.wma</Extra>
+      <Time>2011-10-01T17:33:56.81175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font04_28.bmp</Source>
+      <Name>Fonts\Font04_28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font04_28.xnb</Output>
+      <Time>2011-10-01T18:11:31.968+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\afterBurner.png</Source>
+      <Name>Textures\Player\afterBurner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Player\afterBurner.xnb</Output>
+      <Time>2011-10-02T13:00:09.5775+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\scrapStation.png</Source>
+      <Name>Textures\Ships\scrapStation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\scrapStation.xnb</Output>
+      <Time>2011-10-02T13:40:46.2025+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\scrapStation.png</Source>
+      <Name>Textures\Shadows\scrapStation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\scrapStation.xnb</Output>
+      <Time>2011-10-02T13:41:42.98375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\boxGreen.png</Source>
+      <Name>Textures\Shop\boxGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\boxGreen.xnb</Output>
+      <Time>2011-10-02T14:43:11.468125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\boxRed.png</Source>
+      <Name>Textures\Shop\boxRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\boxRed.xnb</Output>
+      <Time>2011-10-02T14:43:11.468125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\hpHeal.png</Source>
+      <Name>Textures\Shop\hpHeal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\hpHeal.xnb</Output>
+      <Time>2011-10-02T14:46:59.780625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\shieldHeal.png</Source>
+      <Name>Textures\Shop\shieldHeal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\shieldHeal.xnb</Output>
+      <Time>2011-10-02T14:46:59.765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\shieldRegen.png</Source>
+      <Name>Textures\Shop\shieldRegen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\shieldRegen.xnb</Output>
+      <Time>2011-10-02T14:46:59.765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\shieldUpg.png</Source>
+      <Name>Textures\Shop\shieldUpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\shieldUpg.xnb</Output>
+      <Time>2011-10-02T14:46:59.780625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\speedUpg.png</Source>
+      <Name>Textures\Shop\speedUpg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\speedUpg.xnb</Output>
+      <Time>2011-10-02T14:46:59.780625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\nuclear.png</Source>
+      <Name>Textures\Shop\nuclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\nuclear.xnb</Output>
+      <Time>2011-10-02T17:00:34.0775+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\nuclear.png</Source>
+      <Name>Textures\GUI\nuclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\nuclear.xnb</Output>
+      <Time>2011-10-02T16:49:44.530625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font04_24.bmp</Source>
+      <Name>Fonts\Font04_24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Font04_24.xnb</Output>
+      <Time>2011-10-02T17:44:50.218125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\shield128px_4.png</Source>
+      <Name>Textures\Sprites\shield128px_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Sprites\shield128px_4.xnb</Output>
+      <Time>2011-10-02T19:56:59.0775+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\badChoice.wav</Source>
+      <Name>Audio\badChoice</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\badChoice.xnb</Output>
+      <Time>2011-10-02T20:31:12.765+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Mouse\mouse.png</Source>
+      <Name>Textures\Mouse\mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Mouse\mouse.xnb</Output>
+      <Time>2011-10-03T11:50:02.733125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missileT2.png</Source>
+      <Name>Textures\Projectiles\missileT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missileT2.xnb</Output>
+      <Time>2011-10-03T12:26:16.108125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\boom1T2.png</Source>
+      <Name>Textures\Projectiles\boom1T2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\boom1T2.xnb</Output>
+      <Time>2011-10-03T13:03:44.62375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missile45PlayerT2.png</Source>
+      <Name>Textures\Projectiles\missile45PlayerT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missile45PlayerT2.xnb</Output>
+      <Time>2011-10-03T13:03:44.608125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\missileM45PlayerT2.png</Source>
+      <Name>Textures\Projectiles\missileM45PlayerT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\missileM45PlayerT2.xnb</Output>
+      <Time>2011-10-03T13:03:44.608125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\projectile01T2.png</Source>
+      <Name>Textures\Projectiles\projectile01T2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\projectile01T2.xnb</Output>
+      <Time>2011-10-03T14:01:20.03+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\upgDefTier.png</Source>
+      <Name>Textures\Shop\upgDefTier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\upgDefTier.xnb</Output>
+      <Time>2011-10-03T13:32:29.74875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\upgOffTier.png</Source>
+      <Name>Textures\Shop\upgOffTier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\upgOffTier.xnb</Output>
+      <Time>2011-10-03T13:32:29.74875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Achievements\kill100.png</Source>
+      <Name>Textures\Achievements\kill100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Achievements\kill100.xnb</Output>
+      <Time>2011-10-03T14:35:52.576875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Achievements\kill1000.png</Source>
+      <Name>Textures\Achievements\kill1000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Achievements\kill1000.xnb</Output>
+      <Time>2011-10-03T14:35:52.56125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Achievements\kill500.png</Source>
+      <Name>Textures\Achievements\kill500</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Achievements\kill500.xnb</Output>
+      <Time>2011-10-03T14:35:52.56125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Achievements\lvl30.png</Source>
+      <Name>Textures\Achievements\lvl30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Achievements\lvl30.xnb</Output>
+      <Time>2011-10-03T14:35:52.56125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Achievements\lvl60.png</Source>
+      <Name>Textures\Achievements\lvl60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Achievements\lvl60.xnb</Output>
+      <Time>2011-10-03T14:35:52.576875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GUI\Weapons\wpnT2.png</Source>
+      <Name>Textures\GUI\Weapons\wpnT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\GUI\Weapons\wpnT2.xnb</Output>
+      <Time>2011-10-03T15:15:52.451875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg2_0.png</Source>
+      <Name>Textures\Projectiles\mg2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg2_0.xnb</Output>
+      <Time>2011-10-03T15:25:42.7175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg2_1.png</Source>
+      <Name>Textures\Projectiles\mg2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg2_1.xnb</Output>
+      <Time>2011-10-03T15:25:42.7175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Projectiles\mg2_2.png</Source>
+      <Name>Textures\Projectiles\mg2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Projectiles\mg2_2.xnb</Output>
+      <Time>2011-10-03T15:25:42.7175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\shieldT2128px_4.png</Source>
+      <Name>Textures\Sprites\shieldT2128px_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Sprites\shieldT2128px_4.xnb</Output>
+      <Time>2011-10-03T16:08:42.93625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\dollarSign.png</Source>
+      <Name>Textures\Shop\dollarSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\dollarSign.xnb</Output>
+      <Time>2011-10-03T16:17:48.37375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\coinDrop.wav</Source>
+      <Name>Audio\coinDrop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Audio\coinDrop.xnb</Output>
+      <Time>2011-10-03T16:34:08.014375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\shopKeeper0.png</Source>
+      <Name>Textures\Shop\shopKeeper0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\shopKeeper0.xnb</Output>
+      <Time>2011-10-29T21:06:18.38975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\panel.png</Source>
+      <Name>Textures\Shop\panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\panel.xnb</Output>
+      <Time>2011-10-29T21:18:05.13975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MP3\shopAmbience.mp3</Source>
+      <Name>MP3\shopAmbience</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\shopAmbience.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\shopAmbience.wma</Extra>
+      <Time>2011-10-29T22:14:25.874125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\ship08.png</Source>
+      <Name>Textures\Ships\ship08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\ship08.xnb</Output>
+      <Time>2011-10-29T23:02:58.061625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\ship08.png</Source>
+      <Name>Textures\Shadows\ship08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\ship08.xnb</Output>
+      <Time>2011-10-29T23:03:11.671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Crash.spritefont</Source>
+      <Name>Fonts\Crash</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Fonts\Crash.xnb</Output>
+      <Time>2011-10-30T22:10:35.93775+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\playerDmg.png</Source>
+      <Name>Textures\Ships\playerDmg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\playerDmg.xnb</Output>
+      <Time>2011-11-04T22:14:24.562375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\playerRegen.png</Source>
+      <Name>Textures\Ships\playerRegen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\playerRegen.xnb</Output>
+      <Time>2011-11-04T20:50:51.374875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ships\playerVelocity.png</Source>
+      <Name>Textures\Ships\playerVelocity</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Ships\playerVelocity.xnb</Output>
+      <Time>2011-11-04T20:50:51.35925+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\roundBarLeft130px_11.png</Source>
+      <Name>Textures\Sprites\roundBarLeft130px_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Sprites\roundBarLeft130px_11.xnb</Output>
+      <Time>2011-11-04T21:27:24.7655+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shadows\playerDmg.png</Source>
+      <Name>Textures\Shadows\playerDmg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shadows\playerDmg.xnb</Output>
+      <Time>2011-11-04T22:26:30.562375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Shop\hpRegen.png</Source>
+      <Name>Textures\Shop\hpRegen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\Textures\Shop\hpRegen.xnb</Output>
+      <Time>2011-11-05T11:14:45.2858457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MP3\level03.mp3</Source>
+      <Name>MP3\level03</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level03.xnb</Output>
+      <Extra>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\MP3\level03.wma</Extra>
+      <Time>2011-11-08T14:22:21.296875+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\RetroShooter\RetroShooter\RetroShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-13T18:01:29.936875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
